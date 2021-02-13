@@ -1,0 +1,33 @@
+.footer {
+  height: 100px;
+  width: 100%;
+  background: rgb(77, 77, 236);
+  position: fixed;
+  bottom: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.check-out {
+  height: 30px;
+  width: 100px;
+  border: 1px solid #ffffff;
+  border-radius: 3px;
+  margin: 0 15px 0 0px;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.check-out:hover {
+  background-color: rgb(236, 216, 216);
+  cursor: pointer;
+  color: black;
+}
+
+.footer-text {
+  font-size: 21px;
+  margin: 13px;
+  color: #ffffff;
+}

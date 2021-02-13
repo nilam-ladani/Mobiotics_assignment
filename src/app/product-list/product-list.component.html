@@ -1,0 +1,23 @@
+<div class="main-container">
+    <div class="item-list">
+        <div class="item" *ngFor="let item of productList; let i=index">
+            <img height="40%" width="40%" src="{{item.imageUrl}}" alt="Brand Image" srcset="">
+            <div class="brand-name">{{item.brandName}}</div>
+            <div class="product-name">{{item.ProductName}}</div>
+            <div class="mrp">MRP {{item.mrp}}</div>
+            <div class="price">Rs {{item.price}}</div>
+            <div>Available:{{item.quantity}}</div>
+            <div class="add-to-card">
+                <!-- <button class="cart-button" (click)="addCart(i,item.id, item)">ADD CART</button> -->
+                <span (click)="addToCart(i,item.id,item)" class="circle">
+                    +
+                </span>
+                <span class="qty-text">{{getQuantity(i) || 0}}</span>
+                <span class="remove circle" (click)="removeFromCart(i,item.id, item)"
+                    [class.disable]="getQuantity(i) <= 0">
+                    -
+                </span>
+            </div>
+        </div>
+    </div>
+</div>

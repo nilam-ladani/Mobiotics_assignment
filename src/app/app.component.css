@@ -1,0 +1,19 @@
+.navs  {
+    margin: 10px 0 0 0;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  border-bottom: 1px solid gray;
+}
+ul li {
+  margin: 3px;
+  padding: 10px;
+  background: #4d4dec;
+}
+ul a {
+    color: white;
+  text-decoration: none;
+}

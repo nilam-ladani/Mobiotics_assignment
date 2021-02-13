@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "brandName": "Ashirvaad Atta",
+        "ProductName": "Ashirbad Chakki atta",
+        "mrp": 109,
+        "price": 99,
+        "qty": "1Kg",
+        "quantity": 12,
+        "hero": "OMG This just came out today!",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/j65cnm80/flour/z/s/r/1-superior-mp-atta-whole-wheat-flour-aashirvaad-original-imaewzbkfqhy4dhq.jpeg?q=70"
+    },
+    {
+        "id": 2,
+        "brandName": "Ashirbad Ghee",
+        "ProductName": "Made with desi ingredient",
+        "mrp": 208,
+        "price": 180,
+        "qty": "200ml",
+        "quantity": 5,
+        "info": "This is the latest and greatest product from Ashirbad.",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/j9yixe80/ghee/h/z/p/1-aashirvaad-pure-cow-plastic-bottle-aashirvaad-original-imaeznaasxznzgc7.jpeg?q=70"
+    },
+    {
+        "id": 3,
+        "brandName": "Beer Shampoo",
+        "ProductName": "Beer Shampoo feel the difference",
+        "mrp": 509,
+        "price": 500,
+        "qty": "200ml",
+        "quantity": 8,
+        "offerText": "BOGOF",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/jjiw1ow0/shampoo/8/r/k/370-beer-shiny-and-bouncy-shampoo-park-avenue-original-imaf72uahtxywquk.jpeg?q=70"
+    },
+    {
+        "id": 4,
+        "brandName": "Gillete",
+        "ProductName": "Gillete foam easy to use",
+        "mrp": 259,
+        "price": 240,
+        "qty": "200ml",
+        "quantity": 8,
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/j3xbzww0/shaving-cream/w/m/j/418-classic-sensitive-skin-pre-shave-foam-gillette-original-imaeuyybxxppskgu.jpeg?q=70"
+    },
+    {
+        "id": 5,
+        "brandName": "Himalaya Paste",
+        "ProductName": "Himalaya Paste(200ml) green gel",
+        "mrp": 206,
+        "price": 180,
+        "qty": "200ml",
+        "quantity": 9,
+        "offerText": "No srsly GTFO",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/j3uh47k0/toothpaste/f/t/d/150-complete-care-himalaya-original-imaeuwfpgtr59sas.jpeg?q=70"
+    },
+    {
+        "id": 6,
+        "brandName": "Himalaya Shampoo",
+        "ProductName": "Himalaya Shampoo push and use new arrived",
+        "mrp": 300,
+        "price": 239,
+        "qty": "250ml",
+        "quantity": 15,
+        "imageUrl": "https://rukminim1.flixcart.com/image/612/612/j3lwh3k0/shampoo/h/g/b/700-anti-hair-fall-shampoo-himalaya-original-imaeupg7sygzgqej.jpeg?q=70"
+    },
+    {
+        "id": 7,
+        "brandName": "Nivea",
+        "ProductName": "Nivea Moisturiser Cream Medium pack",
+        "mrp": 250,
+        "price": 180,
+        "qty": "200ml",
+        "quantity": 7,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offerText": "info with offerText",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/j4n1x8w0/moisturizer-cream/k/m/b/200-body-lotion-whitening-even-tone-uv-protect-all-skin-types-original-imaeva7e4hvqn7dz.jpeg?q=70"
+    },
+    {
+        "id": 8,
+        "brandName": "Surf excel",
+        "ProductName": "Surf excel powder with matic power",
+        "mrp": 509,
+        "price": 590,
+        "qty": "1.5kg",
+        "quantity": 6,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offerText": "info with offerText",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/jg6v24w0/washing-powder/3/r/d/2-2-kg-top-load-surf-excel-original-imaf3udkm4v5mdrq.jpeg?q=70"
+    },
+    {
+        "id": 9,
+        "brandName": "Treseme Shampoo",
+        "ProductName": "Treseme conditionar added(200ml)",
+        "mrp": 255,
+        "price": 225,
+        "qty": "200ml",
+        "quantity": 3,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offerText": "info with offerText",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/jesunbk0/shampoo/j/8/7/580-keratin-smooth-with-argan-oil-shampoo-tresemme-original-imaexrhqrrs6xqku.jpeg?q=70"
+    },
+    {
+        "id": 10,
+        "brandName": "Treseme Shampoo",
+        "ProductName": "Treseme conditionar added(200ml)",
+        "mrp": 355,
+        "price": 225,
+        "qty": "200ml",
+        "quantity": 8,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offerText": "info with offerText",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/jesunbk0/shampoo/j/8/7/580-keratin-smooth-with-argan-oil-shampoo-tresemme-original-imaexrhqrrs6xqku.jpeg?q=70"
+    },
+    {
+        "id": 11,
+        "brandName": "Treseme Shampoo",
+        "ProductName": "Treseme conditionar added(200ml)",
+        "mrp": 230,
+        "price": 225,
+        "qty": "200ml",
+        "quantity": 20,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offerText": "info with offerText",
+        "imageUrl": "https://rukminim1.flixcart.com/image/832/832/jesunbk0/shampoo/j/8/7/580-keratin-smooth-with-argan-oil-shampoo-tresemme-original-imaexrhqrrs6xqku.jpeg?q=70"
+    }
+]
